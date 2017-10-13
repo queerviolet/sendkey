@@ -1,0 +1,17 @@
+{
+  "name": "sendkey",
+  "version": "0.0.2",
+  "bin": "index.js",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "applescript": "^1.0.0",
+    "commander": "^2.11.0"
+  }
+}
